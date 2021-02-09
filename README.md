@@ -22,6 +22,7 @@
 * Concerts :dancer:
 * Drinking :tropical_drink:
 * Technology :iphone:
+* Pets :wolf: :cat::cat:
 
 ## ⚡ Fun fact
 
