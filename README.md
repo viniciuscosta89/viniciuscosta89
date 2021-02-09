@@ -9,9 +9,20 @@
 ## 📫 How to find me
 * [LinkedIn](https://www.linkedin.com/in/viniciuscosta89/)
 
+## My skills
+<code><img height="24" src="https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5" alt="HTML5"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6" alt="CSS"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-Javascript-333333?style=flat-square&logo=javascript" alt="Javascript"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap" alt="Bootstrap"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-VueJS-333333?style=flat-square&logo=Vue.js" alt="VueJS"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-Sass-333333?style=flat-square&logo=sass" alt="Sass"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress" alt="WordPress"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-yarn-333333?style=flat-square&logo=yarn" alt="yarn"/></code>
+
+
 ## :books: What am i learning/reading lately?
 * Actually I never stopped learning, so I still learning new stuff from HTML, CSS, JS, VueJS, UI...
-* As a self-taught now I'm focusing on **NextJS/ReactJS**
+* As a self-taught now I'm focusing on <img height="24" src="https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=Next.js" alt="Next.js"/> / <img height="24" src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=React" alt="React"/>
 
 ## :stuck_out_tongue_winking_eye: About me
 * Gaming :video_game:
@@ -27,20 +38,3 @@
 ## ⚡ Fun fact
 
 * My hair is long as 75cm and I have a dragon tattoo on my back :dragon:
-
-
-
-<!--
-**viniciuscosta89/viniciuscosta89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
