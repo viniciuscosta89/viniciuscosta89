@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Vinicius!
 
 * 💻 Front-End Developer @ [upLexis](https://uplexis.com.br) 🦊
-* Brazilian from São Paulo, Brazil
+* Brazilian living in São Paulo, Brazil
 * But I'm looking to move to Canada :maple_leaf:
 * +3 years XP on HTML, CSS and JS
 * So...Why don't you **sponsor** me? :grimacing:
