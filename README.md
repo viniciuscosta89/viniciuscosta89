@@ -3,7 +3,7 @@
 * 💻 Front-End Developer @ [upLexis](https://uplexis.com.br) 🦊
 * Brazilian living in São Paulo, Brazil
 * But I'm looking to move to Canada :maple_leaf:
-* +3 years XP on HTML, CSS and JS
+* +4 years XP on HTML, CSS and JS
 * So...Why don't you **sponsor** me? :grimacing:
 
 ## 📫 How to find me
