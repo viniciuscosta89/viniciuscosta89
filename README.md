@@ -1,10 +1,8 @@
 ### 👋 Hi there, I'm Vinicius!
 
-* 💻 Front-End Developer @ [Valtech Brasil](https://valtech.com)
+* 💻 Front-End Developer looking for a job!
 * Brazilian living in São Paulo, Brazil
-* But I'm looking to move to Canada :maple_leaf:
-* +4 years XP on HTML, CSS and JS
-* So...Why don't you **sponsor** me? :grimacing:
+* +6 years of XP
 
 ## 📫 How to find me
 * [LinkedIn](https://www.linkedin.com/in/viniciuscosta89/)
@@ -13,16 +11,15 @@
 <code><img height="24" src="https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5" alt="HTML5"/></code>
 <code><img height="24" src="https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6" alt="CSS"/></code>
 <code><img height="24" src="https://img.shields.io/badge/-Javascript-333333?style=flat-square&logo=javascript" alt="Javascript"/></code>
-<code><img height="24" src="https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap" alt="Bootstrap"/></code>
-<code><img height="24" src="https://img.shields.io/badge/-VueJS-333333?style=flat-square&logo=Vue.js" alt="VueJS"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-Typescript-333333?style=flat-square&logo=Typescript" alt="Typescript"/></code>
+<code><img height="24" src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=React" alt="React"/></code>
 <code><img height="24" src="https://img.shields.io/badge/-Sass-333333?style=flat-square&logo=sass" alt="Sass"/></code>
 <code><img height="24" src="https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress" alt="WordPress"/></code>
-<code><img height="24" src="https://img.shields.io/badge/-yarn-333333?style=flat-square&logo=yarn" alt="yarn"/></code>
-
+<code><img height="24" src="https://img.shields.io/badge/-git-333333?style=flat-square&logo=git" alt="git"/></code>
 
 ## :books: What am i learning/reading lately?
-* Actually I never stopped learning, so I still learning new stuff from HTML, CSS, JS, VueJS, UI...
-* As a self-taught now I'm focusing on <img height="24" src="https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=Next.js" alt="Next.js"/> / <img height="24" src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=React" alt="React"/>
+* Actually I never stopped learning, so I still learning new stuff from HTML, CSS, JS, React, Typescript, UI...
+* As a self-taught now I'm focusing on <img height="24" src="https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=Next.js" alt="Next.js"/> / <img height="24" src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=React" alt="React"/> / <img height="24" src="https://img.shields.io/badge/-Storybook-333333?style=flat-square&logo=Storybook" alt="Storybook"/>
 
 ## :stuck_out_tongue_winking_eye: About me
 * Gaming :video_game:
