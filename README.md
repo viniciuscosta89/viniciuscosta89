@@ -8,6 +8,10 @@
   <a href="https://www.linkedin.com/in/viniciuscosta89/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+
+  <a href="https://viniciuscosta.dev" target="_blank">
+    <img src="https://img.shields.io/badge/viniciuscosta.dev-ff4747?logo=Astro&logoColor=white&style=for-the-badge" height="25" alt="my website"  />
+  </a>
 </div>
 
 ###
@@ -20,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Vinicius Costa from São Paulo, Brazil<br><br>- 🔭 I’m working as Front-end Developer<br>- 📚 I'm currently learning Next.js, Storybook, Cypress.<br>- ⚡ In my free time I like gaming, read to comics, watch movies, cartoons, series and listen to music, concerts.</p>
+<p align="left">I'm Vinicius Costa from São Paulo, Brazil<br><br>- 🔭 I’m working as Front-end Developer<br>- 📚 I'm currently learning Storybook, Cypress.<br>- ⚡ In my free time I like gaming, read to comics, watch movies, cartoons, series and listen to music, concerts.</p>
 
 ###
 
@@ -29,6 +33,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -41,9 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
