@@ -12,8 +12,8 @@
 
 <br />
 
-![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil_%C2%B7_UTC%E2%88%923-000000?style=flat-square&labelColor=000000&color=39FF14&logo=googlemaps&logoColor=39FF14)
-![Focus](https://img.shields.io/badge/Focus-Front--end_Engineering-000000?style=flat-square&labelColor=000000&color=00FF41&logo=react&logoColor=00FF41)
+![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil_%C2%B7_UTC%E2%88%923-000000?style=flat-square&labelColor=000000&color=000000&logo=googlemaps&logoColor=39FF14)
+![Focus](https://img.shields.io/badge/Focus-Front--end_Engineering-000000?style=flat-square&labelColor=000000&color=000000&logo=react&logoColor=00FF41)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-viniciuscosta.dev-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=000000)](https://viniciuscosta.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viniciuscosta89-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/viniciuscosta89)
@@ -200,9 +200,17 @@ When I'm not shipping UI, I'm usually gaming, reading comics, or watching movies
 
 </div>
 
-[![Spotify Now Playing](https://spotibadge.vercel.app/api/recently-played/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4.svg?content_size=small&background_type=blur_dark&border_color=39ff14&background_color=181414&width=320&height=360&song_color=39ff14)](https://spotibadge.vercel.app/redirect-recently-played/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4)
+<div align="center">
+  <a href="https://spotibadge.vercel.app/redirect-recently-played/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4">
+    <img src="https://spotibadge.vercel.app/api/recently-played/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4.svg?content_size=small&background_type=blur_dark&border_color=39ff14&background_color=181414&width=320&height=360&song_color=39ff14" alt="Spotify Recently Played" width="320" />
+  </a>
+</div>
 
-[![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4.svg?content_size=small&background_type=blur_dark&border_color=39ff14&background_color=181414&width=320&height=100&song_color=39ff14)](https://spotibadge.vercel.app/redirect/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4)
+<div align="center">
+  <a href="https://spotibadge.vercel.app/redirect/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4">
+    <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzstugkAAQNFfaWbdxTBP6A6laAqiNILSjWFeAlFoBHSK6b-Xbm_O4j7BDbwBP11Mp-hdfFeFKYpoovEHsmGTZ1UsUbeiP-cB2abdCrznaOdLE67kaVEv8wC21VpX3XTc3RLnkgR3t7xGXpJkhX5sYnhpjgfjbnz8tdXmkVatmTJnHEjwCUOd27MdDxZd8ztOwStQ80let7Wsx_5l2fVDOUdZz5V6XAntEYFKSQRhLi-JxCUTTGFoqPl3_eyUolwwKBjVmHAHCqIFZJRpSTTnyIDfP8UWSvY.DpuESuR51cIBuMfCfaqRqMN91t4.svg?content_size=small&background_type=blur_dark&border_color=39ff14&background_color=181414&width=320&height=100&song_color=39ff14" alt="Spotify Now Playing" width="320" />
+  </a>
+</div>
 
 <div align="center">
 
