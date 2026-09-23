@@ -1,19 +1,19 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:1A0000,70:7F1D1D,100:DC2626&text=Vinicius%20Costa&fontColor=EF4444&fontSize=62&fontAlign=50&fontAlignY=36&desc=Front-end%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlign=50&descAlignY=58&descSize=17&animation=fadeIn&stroke=EF4444&strokeWidth=1"
-  alt="Vinicius Costa — Front-end Developer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:1A0000,70:7F1D1D,100:DC2626&text=Vinicius%20Costa&fontColor=EF4444&fontSize=62&fontAlign=50&fontAlignY=36&desc=Front-end%20Developer%20%C2%B7%20UI%2FUX-focused%20%C2%B7%20React%20%C2%B7%20Next.js&descAlign=50&descAlignY=58&descSize=17&animation=fadeIn&stroke=EF4444&strokeWidth=1"
+  alt="Vinicius Costa — Front-end Developer & UI/UX"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=760&lines=Building+fast%2C+accessible+front-ends.;React+today%2C+Vue+yesterday%2C+whatever+ships+tomorrow.;Turning+Frontend+Mentor+challenges+into+a+habit."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=760&lines=Crafting+interfaces+people+actually+enjoy+using.;UI%2FUX-driven%2C+without+skipping+tests+or+clean+code.;Turning+Frontend+Mentor+challenges+into+a+habit."
   alt="Typing intro"
 />
 
 <br />
 
 ![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil_%C2%B7_UTC%E2%88%923-DC2626?style=flat-square&labelColor=000000&color=DC2626&logo=googlemaps&logoColor=FFFFFF)
-![Focus](https://img.shields.io/badge/Focus-Front--end_Engineering-DC2626?style=flat-square&labelColor=000000&color=DC2626&logo=react&logoColor=FFFFFF)
+![Focus](https://img.shields.io/badge/Focus-Front--end_%2B_UI%2FUX-DC2626?style=flat-square&labelColor=000000&color=DC2626&logo=react&logoColor=FFFFFF)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-viniciuscosta.dev-000000?style=for-the-badge&logo=vercel&logoColor=EF4444&labelColor=000000)](https://viniciuscosta.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viniciuscosta89-000000?style=for-the-badge&logo=linkedin&logoColor=DC2626&labelColor=000000)](https://www.linkedin.com/in/viniciuscosta89)
@@ -30,12 +30,13 @@
 
 ## 👾 About Me
 
-I'm **Vinicius Costa**, a front-end developer based in São Paulo, Brazil, working mostly with **React, Next.js and TypeScript**.
+I'm **Vinicius Costa**, a front-end developer based in São Paulo, Brazil, working mostly with **React, Next.js and TypeScript** — with a soft spot for **UI/UX**.
 
-I like turning UI challenges into small, well-built projects — a lot of my public work comes from **Frontend Mentor** challenges, which I use as an excuse to try a new stack combination: React with Next.js and Zod, Vue with Strapi, Astro for content-heavy pages.
+UI/UX is where I enjoy spending the most time — a transition curve, a focus state, a layout edge case — but that never comes at the expense of solid API integration, test coverage, or clean code. A lot of my public work comes from **Frontend Mentor** challenges, which I use as an excuse to sweat the details of an interface while trying a new stack combination: React with Next.js and Zod, Vue with Strapi, Astro for content-heavy pages.
 
 ```text
 ▸ Primary       React · Next.js · TypeScript · Tailwind CSS
+▸ Craft         UI/UX · Interaction Design · Accessibility
 ▸ Secondary     Astro · Styled Components · Storybook · Cypress
 ▸ Learning now  three.js
 ```
@@ -221,12 +222,13 @@ When I'm not shipping UI, I'm usually gaming, reading comics, or watching movies
 
 </div>
 
-Sou o **Vinicius Costa**, desenvolvedor front-end de São Paulo, trabalhando principalmente com **React, Next.js e TypeScript**.
+Sou o **Vinicius Costa**, desenvolvedor front-end de São Paulo, trabalhando principalmente com **React, Next.js e TypeScript** — com um carinho especial por **UI/UX**.
 
-Gosto de transformar desafios de UI em projetos pequenos e bem feitos — boa parte do que publico vem de desafios do **Frontend Mentor**, que uso como desculpa pra testar uma combinação de stack diferente: React com Next.js e Zod, Vue com Strapi, Astro pra páginas com bastante conteúdo.
+UI/UX é onde gosto de passar mais tempo — uma curva de transição, um focus state, um edge case de layout — mas isso nunca vem à custa de uma boa integração com APIs, cobertura de testes ou qualidade de código. Boa parte do que publico vem de desafios do **Frontend Mentor**, que uso como desculpa pra caprichar nos detalhes de interface enquanto testo uma combinação de stack diferente: React com Next.js e Zod, Vue com Strapi, Astro pra páginas com bastante conteúdo.
 
 ```text
 ▸ Principal      React · Next.js · TypeScript · Tailwind CSS
+▸ Especialidade  UI/UX · Design de Interação · Acessibilidade
 ▸ Secundário     Astro · Styled Components · Storybook · Cypress
 ▸ Estudando      three.js
 ```
