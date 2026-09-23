@@ -12,8 +12,8 @@
 
 <br />
 
-![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil_%C2%B7_UTC%E2%88%923-000000?style=flat-square&labelColor=000000&color=000000&logo=googlemaps&logoColor=EF4444)
-![Focus](https://img.shields.io/badge/Focus-Front--end_Engineering-000000?style=flat-square&labelColor=000000&color=000000&logo=react&logoColor=DC2626)
+![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil_%C2%B7_UTC%E2%88%923-DC2626?style=flat-square&labelColor=000000&color=DC2626&logo=googlemaps&logoColor=FFFFFF)
+![Focus](https://img.shields.io/badge/Focus-Front--end_Engineering-DC2626?style=flat-square&labelColor=000000&color=DC2626&logo=react&logoColor=FFFFFF)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-viniciuscosta.dev-000000?style=for-the-badge&logo=vercel&logoColor=EF4444&labelColor=000000)](https://viniciuscosta.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viniciuscosta89-000000?style=for-the-badge&logo=linkedin&logoColor=DC2626&labelColor=000000)](https://www.linkedin.com/in/viniciuscosta89)
